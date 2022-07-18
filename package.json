@@ -32,7 +32,7 @@
 		"git"
 	],
 	"dependencies": {
-		"@octokit/rest": "^18.12.0"
+		"@octokit/rest": "^19.0.3"
 	},
 	"devDependencies": {
 		"ava": "^3.15.0",
